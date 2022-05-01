@@ -11,6 +11,6 @@
 • RAM: 16GG DDR3 BUS 1867.                     
 
 Đây là bộ EFI mình tự build chuẩn nhất hệ mặt trời 😁😁🤪.                                                                                                   
-Đã fix một số lỗi như bàn phím, troucpad, tai nghe rè, linh tinh lang tang, siêu mượt, cực chuẩn.                                                  
+Đã fix một số lỗi như bàn phím, trackpad, tai nghe rè, linh tinh lang tang, siêu mượt, cực chuẩn.                                                  
 Link Down: [Download EFI macOS Monterey 12.3.1 Laptop  M4800 Opencore](https://drive.google.com/file/d/12XHG2GisLNJZe0umPrHU3WXIxbSz6bEP/view?usp=sharing)                    
 ![Ảnh chụp Màn hình 2022-04-19 lúc 12 34 35](https://user-images.githubusercontent.com/103987160/163943326-f0feba96-c7ee-4e5e-8a48-26573a480818.png)
